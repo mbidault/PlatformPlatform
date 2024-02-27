@@ -13,6 +13,7 @@ using PlatformPlatform.SharedKernel.InfrastructureCore.Services;
 
 namespace PlatformPlatform.SharedKernel.InfrastructureCore;
 
+//
 public static class InfrastructureCoreConfiguration
 {
     public static readonly bool SwaggerGenerator = Environment.GetEnvironmentVariable("SWAGGER_GENERATOR") == "true";
