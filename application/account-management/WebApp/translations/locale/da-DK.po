@@ -14,6 +14,14 @@ msgstr ""
 "Plural-Forms: \n"
 
 #. js-lingui-explicit-id
+msgid "Screenshots of the dashboard project showing mobile versions"
+msgstr "Skærmbilleder af dashboard-projektet, der viser mobile versioner"
+
+#. js-lingui-explicit-id
+msgid "Screenshots of the dashboard project showing desktop and mobile versions"
+msgstr "Skærmbilleder af dashboard-projektet, der viser desktop- og mobile versioner"
+
+#. js-lingui-explicit-id
 msgid "Missing Fields. Failed to Create Account."
 msgstr "Felter mangler. Kunne ikke oprette konto."
 
@@ -33,17 +41,34 @@ msgstr "navn"
 msgid "email"
 msgstr "e-mail"
 
-msgid "Account Management"
-msgstr "Kontoadministration"
+#. js-lingui-explicit-id
+msgid "Missing Fields. Failed to login."
+msgstr "Felter mangler. Kunne ikke logge ind."
+
+#. js-lingui-explicit-id
+msgid "Server error: Failed login."
+msgstr "Serverfejl: Kunne ikke logge ind."
+
+#. js-lingui-explicit-id
+msgid "Server error: Failed logout."
+msgstr "Serverfejl: Kunne ikke logge ud."
+
+#. js-lingui-explicit-id
+msgid "name@work.email.com"
+msgstr "navn@arbejde.email.dk"
+
+#. js-lingui-explicit-id
+msgid "Enter password"
+msgstr "Indtast adgangskode"
 
 msgid "Create a account"
 msgstr "Opret en konto"
 
-msgid "Create Account"
-msgstr "Opret konto"
-
 msgid "Create account!"
 msgstr "Opret konto!"
+
+msgid "Don't have an account?"
+msgstr "Har du ikke en konto?"
 
 msgid "Email"
 msgstr "E-mail"
@@ -51,8 +76,20 @@ msgstr "E-mail"
 msgid "Name"
 msgstr "Navn"
 
-msgid "Overview"
-msgstr "Oversigt"
+msgid "Password"
+msgstr "Adgangskode"
+
+msgid "Please sign in to continue"
+msgstr "Log ind for at fortsætte"
+
+msgid "Sign in"
+msgstr "Log ind"
+
+msgid "Sign in with your company email address to get started building on PlatformPlatform - just like thousands of other developers."
+msgstr "Log ind med din virksomheds e-mail-adresse for at komme i gang med at bygge på PlatformPlatform - ligesom tusindvis af andre udviklere."
+
+msgid "Sign up"
+msgstr "Opret"
 
 msgid "Something went wrong, please try again"
 msgstr "Noget gik galt, prøv igen"
@@ -60,5 +97,8 @@ msgstr "Noget gik galt, prøv igen"
 msgid "Subdomain"
 msgstr "Subdomæne"
 
-msgid "User Management"
-msgstr "Brugeradministration"
+msgid "This is the example for the<0>Acme</0>demo product, brought to you by PlatformPlatform"
+msgstr "Dette er et eksempel på<0>Acme</0>demo produkt, præsenteret af PlatformPlatform"
+
+msgid "Welcome to Acme."
+msgstr "Velkommen til Acme."

@@ -14,6 +14,14 @@ msgstr ""
 "Plural-Forms: \n"
 
 #. js-lingui-explicit-id
+msgid "Screenshots of the dashboard project showing mobile versions"
+msgstr "Screenshots of the dashboard project showing mobile versions"
+
+#. js-lingui-explicit-id
+msgid "Screenshots of the dashboard project showing desktop and mobile versions"
+msgstr "Screenshots of the dashboard project showing desktop and mobile versions"
+
+#. js-lingui-explicit-id
 msgid "Missing Fields. Failed to Create Account."
 msgstr "Missing Fields. Failed to Create Account."
 
@@ -33,17 +41,34 @@ msgstr "name"
 msgid "email"
 msgstr "email"
 
-msgid "Account Management"
-msgstr "Account Management"
+#. js-lingui-explicit-id
+msgid "Missing Fields. Failed to login."
+msgstr "Missing Fields. Failed to login."
+
+#. js-lingui-explicit-id
+msgid "Server error: Failed login."
+msgstr "Server error: Failed login."
+
+#. js-lingui-explicit-id
+msgid "Server error: Failed logout."
+msgstr "Server error: Failed logout."
+
+#. js-lingui-explicit-id
+msgid "name@work.email.com"
+msgstr "name@work.email.com"
+
+#. js-lingui-explicit-id
+msgid "Enter password"
+msgstr "Enter password"
 
 msgid "Create a account"
 msgstr "Create a account"
 
-msgid "Create Account"
-msgstr "Create Account"
-
 msgid "Create account!"
 msgstr "Create account!"
+
+msgid "Don't have an account?"
+msgstr "Don't have an account?"
 
 msgid "Email"
 msgstr "Email"
@@ -51,8 +76,20 @@ msgstr "Email"
 msgid "Name"
 msgstr "Name"
 
-msgid "Overview"
-msgstr "Overview"
+msgid "Password"
+msgstr "Password"
+
+msgid "Please sign in to continue"
+msgstr "Please sign in to continue"
+
+msgid "Sign in"
+msgstr "Sign in"
+
+msgid "Sign in with your company email address to get started building on PlatformPlatform - just like thousands of other developers."
+msgstr "Sign in with your company email address to get started building on PlatformPlatform - just like thousands of other developers."
+
+msgid "Sign up"
+msgstr "Sign up"
 
 msgid "Something went wrong, please try again"
 msgstr "Something went wrong, please try again"
@@ -60,5 +97,8 @@ msgstr "Something went wrong, please try again"
 msgid "Subdomain"
 msgstr "Subdomain"
 
-msgid "User Management"
-msgstr "User Management"
+msgid "This is the example for the<0>Acme</0>demo product, brought to you by PlatformPlatform"
+msgstr "This is the example for the<0>Acme</0>demo product, brought to you by PlatformPlatform"
+
+msgid "Welcome to Acme."
+msgstr "Welcome to Acme."
